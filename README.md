@@ -5,5 +5,5 @@ porém aplicável a qualquer robô utilizando qualquer microcontrolador (ex: PIC
 O arquivo contém toda explicação matemática e de programação usada para projetar o seguidor de linha.
 
 Vídeos de demonstração:
-  https://www.youtube.com/watch?v=nOpXkmYPDWs
-  https://www.youtube.com/watch?v=-aNXDttJF8c
+  - [TREINO OBR 2016 #1](https://www.youtube.com/watch?v=nOpXkmYPDWs)
+  - [TREINO OBR 2016 #2](https://www.youtube.com/watch?v=-aNXDttJF8c)
