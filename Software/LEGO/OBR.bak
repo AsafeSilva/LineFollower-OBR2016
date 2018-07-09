@@ -1,0 +1,30 @@
+#include "main.h"
+
+task main(){
+   setup();
+}
+
+task taskSeguirLinha(){
+  Follows(main);
+  SeguirLinha();
+}
+
+task taskReadArduino(){
+  Follows(main);
+  readArduino();
+}
+
+task taskMessageArduino(){
+	Follows(main);
+	checkValueArduino();
+}
+
+//task taskResgateCommunication(){
+//  Follows(main);
+//  decodeMessage();
+//}
+
+task taskCheckBaterry(){
+	Follows(main);
+	checkBattery();
+}
